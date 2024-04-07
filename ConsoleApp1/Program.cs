@@ -1,11 +1,11 @@
-﻿// Full name
-string name = "John Doe";
+﻿// Outer loop
+for (int i = 1; i <= 2; ++i) 
+{
+  Console.WriteLine("Outer: " + i);  // Executes 2 times
 
-// Location of the letter D
-int charPos = name.IndexOf("D");
-
-// Get last name
-string lastName = name.Substring(charPos);
-
-// Print the result
-Console.WriteLine(lastName);
+  // Inner loop
+  for (int j = 1; j <= 3; j++) 
+  {
+    Console.WriteLine(" Inner: " + j); // Executes 6 times (2 * 3)
+  }
+}

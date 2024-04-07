@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patri\\Desktop\\Csharp\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "c:\\Users\\patri\\Desktop\\Csharp\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patri\\Desktop\\Csharp\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "c:\\Users\\patri\\Desktop\\Csharp\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patri\\Desktop\\Csharp\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "c:\\Users\\patri\\Desktop\\Csharp\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\patri\\Desktop\\Csharp\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "c:\\Users\\patri\\Desktop\\Csharp\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patri\\Desktop\\Csharp\\ConsoleApp1\\obj\\",
+        "outputPath": "c:\\Users\\patri\\Desktop\\Csharp\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config"
